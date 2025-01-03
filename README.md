@@ -1,16 +1,4 @@
-# newproject
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikacja wyświetla artykuły w wybranych kategoriach
+Dla poprawnego działania w folderze "/lib" należy stworzyć plik "constants.dart" i dodać
+const String apiKey = 'Your_API_KEY'; 
+otrzymany na stronie https://newsapi.org/
